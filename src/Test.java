@@ -6,8 +6,10 @@ public class Test {
 		// Remote Control -> lokal Rep erfolgreich
 		// lokal Rep -> Index erfolgreich
 		// Index -> WS erfolgreich
-		
+
 		// nochmal ans remote Rep schicken
+
+		// Wiederholung für Aufgabe 3
 	}
 
 }
